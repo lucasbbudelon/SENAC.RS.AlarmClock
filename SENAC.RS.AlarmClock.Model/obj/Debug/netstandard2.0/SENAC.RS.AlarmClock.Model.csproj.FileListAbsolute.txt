@@ -1,0 +1,8 @@
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\bin\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.deps.json
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\bin\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.dll
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\bin\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.pdb
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\obj\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.csproj.CoreCompileInputs.cache
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\obj\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.AssemblyInfoInputs.cache
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\obj\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.AssemblyInfo.cs
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\obj\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.dll
+D:\GitHub\SENAC.RS.AlarmClock\SENAC.RS.AlarmClock.Model\obj\Debug\netstandard2.0\SENAC.RS.AlarmClock.Model.pdb
