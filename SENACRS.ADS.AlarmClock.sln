@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENACRS.ADS.AlarmClock.UI", "SENACRS.ADS.AlarmClock.UI\SENACRS.ADS.AlarmClock.UI.csproj", "{9E4AC9CC-9931-41E7-8822-12565A733565}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SENAC.RS.AlarmClock.Model", "SENACRS.ADS.AlarmClock.Model\SENAC.RS.AlarmClock.Model.csproj", "{B82E7C18-A9A1-4B83-995F-CCC621C99703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4AC9CC-9931-41E7-8822-12565A733565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4AC9CC-9931-41E7-8822-12565A733565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4AC9CC-9931-41E7-8822-12565A733565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4AC9CC-9931-41E7-8822-12565A733565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B82E7C18-A9A1-4B83-995F-CCC621C99703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B82E7C18-A9A1-4B83-995F-CCC621C99703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B82E7C18-A9A1-4B83-995F-CCC621C99703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B82E7C18-A9A1-4B83-995F-CCC621C99703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A57264C-2DF2-4707-822F-48701914329F}
+	EndGlobalSection
+EndGlobal
